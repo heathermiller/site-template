@@ -1,0 +1,3 @@
+Site template
+
+Using Jekyll, gulp, auto-reloader...
